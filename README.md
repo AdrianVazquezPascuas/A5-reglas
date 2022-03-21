@@ -14,4 +14,5 @@ Mediante una hoja de **estilos externos** se ha de aplicar formato a la página 
 * Regla 12. Ahora creamos una `clase` para el **h1** con nombre de `formato` y en la hoja de estilos ponemos lo siguiente: color de **fondo** `negro` **color** de letras `blanco` con un **border-radius** de `20px` y el **texto alineado** `centrado`.
 * Regla 13. Las imagenes tienen que tener un **width** de `50%`.
 * Regla 14. Creamos un pie de página con **id** `footer` donde en la hoja de estilos ponemos color de **fondo** `negro`, **color** `gris`, el **texto alineado** en el `centro` y con **padding** `12px`.
-* Regla 15. 
+* Regla 15. Ponemos en la hoja de estilos @media only screen and (max-width: 600px) ,en encabezado h1 que tenga un `1%` de **padding** y **font-size** `40px` ,en la **id** `main` que tenga un `1%` de **padding** en la izquierda y derecha, el **#main p** que tenga un **font-size** de `15px` y el **#main h1** que tenga un **font-size** de `35px`.
+
